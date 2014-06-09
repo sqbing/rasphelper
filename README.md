@@ -1,4 +1,4 @@
 rasphelper
 ==========
 
-A raspberry configuration helper based on node.
+A raspberry configuration helper.
